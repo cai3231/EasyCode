@@ -73,4 +73,4 @@
 > 3. 不要解压zip包，安装时直接选zip包即可。
 > ```  
 
-#### QQ群：[373603580](https://shang.qq.com/wpa/qunwpa?idkey=4d495321e527ec2ce459c0d0d6320414cd9677d92d5287df831d4e1c4ec09740)
+#### QQ群：[373603580 ](https://shang.qq.com/wpa/qunwpa?idkey=4d495321e527ec2ce459c0d0d6320414cd9677d92d5287df831d4e1c4ec09740)
